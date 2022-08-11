@@ -1,2 +1,2 @@
-# intranet
-Tutorial for simple portal for access to certian sites, updated weekly
+This peice of kit is intended for use by the general public. Do not share this with anyone. Give them a link to this site
+
